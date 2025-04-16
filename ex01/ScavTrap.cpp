@@ -6,12 +6,13 @@
 /*   By: vsanin <vsanin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/15 14:45:33 by vsanin            #+#    #+#             */
-/*   Updated: 2025/04/15 19:26:09 by vsanin           ###   ########.fr       */
+/*   Updated: 2025/04/16 13:20:23 by vsanin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ScavTrap.hpp"
 #include <iostream>
+#include <string>
 
 ScavTrap::ScavTrap()
 {

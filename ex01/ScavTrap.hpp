@@ -6,7 +6,7 @@
 /*   By: vsanin <vsanin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/15 14:45:44 by vsanin            #+#    #+#             */
-/*   Updated: 2025/04/15 19:24:28 by vsanin           ###   ########.fr       */
+/*   Updated: 2025/04/16 13:20:41 by vsanin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,6 +20,7 @@
 #define ST_DESTR		"ScavTrap: Destructor called\n"
 
 #include "ClapTrap.hpp"
+#include <string>
 
 class ScavTrap : public ClapTrap
 {
